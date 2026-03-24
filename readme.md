@@ -31,7 +31,7 @@ git init
 git add .
 git commit -m "init: hls player"
 git branch -M main
-git remote add origin https://github.com/USERNAME/hls-player.git
+git remote add origin https://github.com/aiksatria/hls-player.git
 git push -u origin main
 2. Deploy di Render
 Buka render.com → New Web Service
